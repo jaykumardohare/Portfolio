@@ -67,9 +67,3 @@ I'm open to:
 - Knowledge exchange
 
 Feel free to reach out through any of the links above!
-
-## 📸 Project Screenshots
-[Placeholder for project screenshots]
-- Add screenshots of different sections of your portfolio
-- Showcase the responsive design
-- Highlight key features
