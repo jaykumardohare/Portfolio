@@ -15,7 +15,6 @@ A modern, responsive personal portfolio website showcasing my professional journ
 - ESLint
 - PostCSS
 - Autoprefixer
-- TypeScript Types
 
 ## ✨ Key Features
 - 🌐 Single Page Application (SPA)
