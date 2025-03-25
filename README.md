@@ -31,24 +31,8 @@ A modern, responsive personal portfolio website showcasing my professional journ
 - **Projects**: Showcase of key projects
 - **Contact**: Contact information and ways to connect
 
-## 🚀 Quick Start
-1. Clone the repository
-```bash
-git clone https://github.com/jaykumardohare/Portfolio.git
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Run the application
-```bash
-npm run dev
-```
-
 ## 🔗 Quick Links
-- 🌐 Live Portfolio: [https://portfolio-2ldqg0r3f-jaykumardohares-projects.vercel.app](https://portfolio-2ldqg0r3f-jaykumardohares-projects.vercel.app)
+- 🌐 Live Portfolio: [https://portfolio-nxok3vhyk-jaykumardohares-projects.vercel.app/](https://portfolio-2ldqg0r3f-jaykumardohares-projects.vercel.app)
 - 📄 Resume: [Add Direct Resume Link]
 - 💼 LinkedIn: [https://www.linkedin.com/in/jaykumardohare/](https://www.linkedin.com/in/jaykumardohare/)
 - 📧 Email: jaykumardohare123@gmail.com
