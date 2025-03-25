@@ -1,14 +1,35 @@
+<<<<<<< HEAD
 # 🚀 Jay Kumar Dohare | Personal Portfolio Website
+=======
+# 🚀 Personal Portfolio Website
+## 📌 Overview
+A modern, responsive personal portfolio website showcasing my professional journey as a Web Developer, built using React.js. This portfolio provides a comprehensive view of my skills, projects, and professional profile.
+
+# 🛠 Tech Stack
+## Frontend Technologies
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 
+<<<<<<< HEAD
 ## 📌 Project Overview
+=======
+## Development Tools
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 A modern, responsive personal portfolio website showcasing my professional journey as a Web Developer. 
 
+<<<<<<< HEAD
 Built using cutting-edge frontend technologies to provide a comprehensive view of my skills, projects, and professional profile.
+=======
+# ✨ Key Features
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 
+<<<<<<< HEAD
 ## 🛠 Technology Stack
+=======
+# 📂 Sections
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 ### Frontend Technologies
 - React 19
@@ -17,6 +38,10 @@ Built using cutting-edge frontend technologies to provide a comprehensive view o
 - Tailwind CSS
 - Framer Motion
 
+<<<<<<< HEAD
+=======
+# 🔗 Quick Links
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 ### Development Tools
 - ESLint
@@ -24,18 +49,32 @@ Built using cutting-edge frontend technologies to provide a comprehensive view o
 - Autoprefixer
 - TypeScript Types
 
+<<<<<<< HEAD
+=======
+# 🔧 Upcoming Improvements
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 ## ✨ Key Features
 
+<<<<<<< HEAD
 - 🌐 Single Page Application (SPA)
 - 📱 Fully Responsive Design
 - 🎨 Modern UI with Tailwind CSS
 - 🔗 Smooth Page Transitions
 - ♻️ Modular Component Architecture
 
+=======
+# 📬 Let's Connect!
+I'm open to:
+
+# Collaboration opportunities
+Interesting project discussions
+Professional networking
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
 
 ## 📂 Website Sections
 
+<<<<<<< HEAD
 - **Home**: Engaging landing page with professional introduction
 - **About**: Detailed personal background and professional journey
 - **Skills**: Comprehensive display of technical expertise
@@ -125,3 +164,8 @@ Feel free to reach out for:
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jaykumardohare&theme=radical&no-frame=true&margin-w=15)
+=======
+Add screenshots of different sections of your portfolio
+Showcase the responsive design
+Highlight key features
+>>>>>>> 962ed20d4afa8d0a14a2bda295a7374278bf9b7d
