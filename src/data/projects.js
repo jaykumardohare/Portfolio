@@ -1,13 +1,24 @@
 export const projects = [
   {
     id: 1,
-    title: "Interactive To-Do List Web App",
+    title: "My Portfolio",
     description:
-      "A responsive web application for task management, featuring persistent storage, task completion tracking, and intuitive user interface. Users can add, delete, and mark tasks as completed with data preserved between sessions using browser localStorage.",
+      "A personal portfolio website showcasing projects and skills with smooth animations and responsive design.",
+    technologies: ["React", "Framer Motion", "Tailwind CSS"],
+    image: "/placeholder.jpg",
+    github: "https://github.com/jaykumardohare/portfolio",
+    demo: "https://portfolio-2ldqg0r3f-jaykumardohares-projects.vercel.app",
+    featured: false,
+  },
+  {
+    id: 3,
+    title: "To-Do List Web App",
+    description:
+      "A responsive web application for task management, featuring persistent storage, task completion tracking, and intuitive user interface. Users can add, delete.",
     technologies: ["HTML5", "CSS3", "JavaScript"],
     image: "/todo-list-screenshot.png",
     github: "https://github.com/jaykumardohare/My-To-Do-List",
-    demo: "https://my-to-do-list-qznqxahly-jaykumardohare-projects.vercel.app/",
+    demo: "https://my-to-do-list-hazel.vercel.app/",
     featured: false,
   },
   {
@@ -18,17 +29,6 @@ export const projects = [
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "MongoDB"],
     image: "/placeholder.jpg",
     github: "https://github.com/jaykumardohare/task-manager",
-    demo: "#",
-    featured: true,
-  },
-  {
-    id: 3,
-    title: "Portfolio Website",
-    description:
-      "A personal portfolio website showcasing projects and skills with smooth animations and responsive design.",
-    technologies: ["React", "Framer Motion", "Tailwind CSS"],
-    image: "/placeholder.jpg",
-    github: "https://github.com/jaykumardohare/portfolio",
     demo: "#",
     featured: true,
   },
