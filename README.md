@@ -32,7 +32,7 @@ A modern, responsive personal portfolio website showcasing my professional journ
 
 ## 🔗 Quick Links
 - 🌐 Live Portfolio: [Click here to view my portfolio](https://portfolio-jaykumardohares-projects.vercel.app)
-- 📄 Resume: [Add Direct Resume Link]
+- 📄 Resume: [Click here to view my resume](https://drive.google.com/file/d/1hanxlnVSeTPPnIR2fUgoCwftzqfoHOqs/view?usp=drive_link)
 - 💼 LinkedIn: [https://www.linkedin.com/in/jaykumardohare/](https://www.linkedin.com/in/jaykumardohare/)
 - 📧 Email: jaykumardohare123@gmail.com
 
