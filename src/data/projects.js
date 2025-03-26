@@ -7,7 +7,7 @@ export const projects = [
     technologies: ["React", "Framer Motion", "Tailwind CSS"],
     image: "/placeholder.jpg",
     github: "https://github.com/jaykumardohare/portfolio",
-    demo: "https://portfolio-pyavasmpi-jaykumardohares-projects.vercel.app",
+    demo: "https://portfolio-jaop3vivu-jaykumardohares-projects.vercel.app/",
     featured: false,
   },
   {
