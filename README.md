@@ -31,8 +31,8 @@ A modern, responsive personal portfolio website showcasing my professional journ
 - **Contact**: Contact information and ways to connect
 
 ## 🔗 Quick Links
-- 🌐 Live Portfolio: [Click here to view my portfolio](https://portfolio-jaykumardohares-projects.vercel.app)
-- 📄 Resume: [Click here to view my resume](https://drive.google.com/file/d/1hanxlnVSeTPPnIR2fUgoCwftzqfoHOqs/view?usp=drive_link)
+- 🌐 Live Portfolio: [View My Portfolio](https://portfolio-jaykumardohares-projects.vercel.app)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1AmnNNXq_-ZGmAQLfYz68CbCh2rQI0p0F/view?usp=sharing)
 - 💼 LinkedIn: [https://www.linkedin.com/in/jaykumardohare/](https://www.linkedin.com/in/jaykumardohare/)
 - 📧 Email: jaykumardohare123@gmail.com
 
